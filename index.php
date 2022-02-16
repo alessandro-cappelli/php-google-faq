@@ -23,7 +23,7 @@
                     <li><a href="#">Norme sulla privacy</a></li>
                     <li><a href="#">Termini di servizio</a></li>
                     <li><a href="#">Tecnologie</a></li>
-                    <li><a href="#">Domande frequenti</a></li>
+                    <li><a class='domande_frequenti' href="#">Domande frequenti</a></li>
                 </ul>
 
             </div>

@@ -28,9 +28,19 @@ ul li{
     display: inline-block;
     margin-right: 10px;
     font-size: 20px;
+    padding-bottom: 10px;
 }
 
 a{
     text-decoration: none;
     color: #5f6368;
+}
+
+.domande_frequenti{
+    color: #3367d6;
+    border-bottom: 5px solid #3367d6;
+}
+
+.container_navbar{
+    border-bottom: 1px solid #5f6368;
 }
