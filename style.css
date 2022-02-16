@@ -11,10 +11,26 @@ img{
 
 .container_col{
     display: flex;
-    align-items: center;
+    
 }
 
 .privacy_termini{
     font-size: 35px;
     margin-left: 10px;
+}
+
+.container_logo{
+    display: flex;
+    align-items: center;
+}
+
+ul li{
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #5f6368;
 }
