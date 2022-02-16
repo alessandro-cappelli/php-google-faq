@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+img{
+    height: 65px;
+}
+
+.container_col{
+    display: flex;
+    align-items: center;
+}
+
+.privacy_termini{
+    font-size: 35px;
+    margin-left: 10px;
+}
